@@ -1,5 +1,5 @@
 # password-fun-03
-##Jessica Ciak Portfolio Webpage
+##Password Generator
 
 ## Description
 
