@@ -6,7 +6,7 @@ var generateBtn = document.querySelector("#generate");
 var numberChars = "1234567890";
 var lowerChars = "abcdefghijklmnopqrstuvwxyz";
 var upperChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-var specialChars = "~ ! @ # $ % ^ & * _ - + = `` | \ ( ) { } [ ] : ; `";
+var specialChars = "~!@#$%^&*_-+=`'|\(){}[]:;";
 
 var passwordLength = "";
 
